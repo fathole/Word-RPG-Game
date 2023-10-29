@@ -354,8 +354,11 @@
 -r:"Library/Bee/artifacts/1900b0aE.dag/Unity.VSCode.Editor.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/UnityEditor.UI.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/UnityEngine.UI.ref.dll"
-"Assets/MainManager.cs"
-"Assets/MainMenuManager.cs"
+"Assets/Scripts/Data/LanguageData.cs"
+"Assets/Scripts/Data/SceneData.cs"
+"Assets/Scripts/Data/SettingData.cs"
+"Assets/Scripts/Manager/MainManager.cs"
+"Assets/Scripts/Manager/MainMenuManager.cs"
 -langversion:9.0
 
 /deterministic

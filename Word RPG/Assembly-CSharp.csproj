@@ -56,8 +56,11 @@
     <Analyzer Include="C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Extensions\Microsoft\Visual Studio Tools for Unity\Analyzers\Microsoft.Unity.Analyzers.dll" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\MainMenuManager.cs" />
-    <Compile Include="Assets\MainManager.cs" />
+    <Compile Include="Assets\Scripts\Manager\MainManager.cs" />
+    <Compile Include="Assets\Scripts\Manager\MainMenuManager.cs" />
+    <Compile Include="Assets\Scripts\Data\SceneData.cs" />
+    <Compile Include="Assets\Scripts\Data\SettingData.cs" />
+    <Compile Include="Assets\Scripts\Data\LanguageData.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
