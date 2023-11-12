@@ -359,6 +359,7 @@
 "Assets/Scripts/Data/SettingData.cs"
 "Assets/Scripts/Manager/MainManager.cs"
 "Assets/Scripts/Manager/MainMenuManager.cs"
+"Assets/Scripts/Manager/SettingManager.cs"
 -langversion:9.0
 
 /deterministic

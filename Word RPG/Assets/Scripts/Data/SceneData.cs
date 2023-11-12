@@ -1,7 +1,7 @@
 public enum SceneDataOption
 {
     Init,
-    Start,
+    Splash,
     MainMenu,
     Main,
 }
